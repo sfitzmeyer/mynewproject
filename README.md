@@ -1,3 +1,3 @@
 # mynewproject
 
-Author: Dr. F
+Author: Dr. Fitzmeyer
